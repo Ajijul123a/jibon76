@@ -5,7 +5,7 @@
 # pkg install git
 # pip2 install requests
 # pip2 install mechanize
-# git clone https://github.com/Ajijul123a/Black_Tiger.git
+# git clone https://github.com/Ajijul123a/jibon76.git
 # cd Black_Tiger
 # chmod +x *
 # ls
